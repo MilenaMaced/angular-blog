@@ -16,7 +16,7 @@
 .big-card__descption {
   margin-top: 10px;
 }
-.big-card__descption > p > a {
+.big-card__descption > a > p {
   color: gray;
 }
 .big-card__photo > img {
